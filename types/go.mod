@@ -1,4 +1,4 @@
-module github.com/streamingfast/firehose-acme/types
+module github.com/maoueh/firehose-graph/types
 
 go 1.16
 
